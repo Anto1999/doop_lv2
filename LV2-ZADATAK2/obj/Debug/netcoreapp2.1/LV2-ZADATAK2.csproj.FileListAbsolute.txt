@@ -1,0 +1,11 @@
+C:\Users\Nune\Documents\doop_lv2_\doop_lv2\LV2-ZADATAK2\bin\Debug\netcoreapp2.1\LV2-ZADATAK2.deps.json
+C:\Users\Nune\Documents\doop_lv2_\doop_lv2\LV2-ZADATAK2\bin\Debug\netcoreapp2.1\LV2-ZADATAK2.runtimeconfig.json
+C:\Users\Nune\Documents\doop_lv2_\doop_lv2\LV2-ZADATAK2\bin\Debug\netcoreapp2.1\LV2-ZADATAK2.runtimeconfig.dev.json
+C:\Users\Nune\Documents\doop_lv2_\doop_lv2\LV2-ZADATAK2\bin\Debug\netcoreapp2.1\LV2-ZADATAK2.dll
+C:\Users\Nune\Documents\doop_lv2_\doop_lv2\LV2-ZADATAK2\bin\Debug\netcoreapp2.1\LV2-ZADATAK2.pdb
+C:\Users\Nune\Documents\doop_lv2_\doop_lv2\LV2-ZADATAK2\obj\Debug\netcoreapp2.1\LV2-ZADATAK2.csprojAssemblyReference.cache
+C:\Users\Nune\Documents\doop_lv2_\doop_lv2\LV2-ZADATAK2\obj\Debug\netcoreapp2.1\LV2-ZADATAK2.csproj.CoreCompileInputs.cache
+C:\Users\Nune\Documents\doop_lv2_\doop_lv2\LV2-ZADATAK2\obj\Debug\netcoreapp2.1\LV2-ZADATAK2.AssemblyInfoInputs.cache
+C:\Users\Nune\Documents\doop_lv2_\doop_lv2\LV2-ZADATAK2\obj\Debug\netcoreapp2.1\LV2-ZADATAK2.AssemblyInfo.cs
+C:\Users\Nune\Documents\doop_lv2_\doop_lv2\LV2-ZADATAK2\obj\Debug\netcoreapp2.1\LV2-ZADATAK2.dll
+C:\Users\Nune\Documents\doop_lv2_\doop_lv2\LV2-ZADATAK2\obj\Debug\netcoreapp2.1\LV2-ZADATAK2.pdb
