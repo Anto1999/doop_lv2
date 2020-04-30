@@ -1,0 +1,10 @@
+C:\Users\Nune\source\repos\doop_lv2_\bin\Debug\netcoreapp2.1\doop_lv2_.deps.json
+C:\Users\Nune\source\repos\doop_lv2_\bin\Debug\netcoreapp2.1\doop_lv2_.runtimeconfig.json
+C:\Users\Nune\source\repos\doop_lv2_\bin\Debug\netcoreapp2.1\doop_lv2_.runtimeconfig.dev.json
+C:\Users\Nune\source\repos\doop_lv2_\bin\Debug\netcoreapp2.1\doop_lv2_.dll
+C:\Users\Nune\source\repos\doop_lv2_\bin\Debug\netcoreapp2.1\doop_lv2_.pdb
+C:\Users\Nune\source\repos\doop_lv2_\obj\Debug\netcoreapp2.1\doop_lv2_.csproj.CoreCompileInputs.cache
+C:\Users\Nune\source\repos\doop_lv2_\obj\Debug\netcoreapp2.1\doop_lv2_.AssemblyInfoInputs.cache
+C:\Users\Nune\source\repos\doop_lv2_\obj\Debug\netcoreapp2.1\doop_lv2_.AssemblyInfo.cs
+C:\Users\Nune\source\repos\doop_lv2_\obj\Debug\netcoreapp2.1\doop_lv2_.dll
+C:\Users\Nune\source\repos\doop_lv2_\obj\Debug\netcoreapp2.1\doop_lv2_.pdb
